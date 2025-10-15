@@ -49,5 +49,6 @@ This project has been in constant development since version 1.0, the current app
 - Ubuntu RootFs ([Focal Fossa](https://releases.ubuntu.com/focal))
 - PRoot ([proot-me.github.io](https://proot-me.github.io))
 
-Many thanks to [ptitSeb](https://github.com/ptitSeb), [Danylo](https://blogs.igalia.com/dpiliaiev/tags/mesa/), [Max Ivan](https://github.com/Maxython), [Twaik Yont](https://github.com/twaik), [alexvorxx](https://github.com/alexvorxx) and others.<br>
+Many thanks to [ptitSeb](https://github.com/ptitSeb), [Danylo](https://blogs.igalia.com/dpiliaiev/tags/mesa/), [Max Ivan](https://github.com/Maxython), [Twaik Yont](https://github.com/twaik), [alexvorxx](https://github.com/alexvorxx),  [pipetto-crypto](https://github.com/Pipetto-crypto/winlator) and others.<br>
 Thank you to all the people who believe in this project.
+
